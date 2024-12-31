@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="NRPGZones">
-    <output-path>$PROJECT_DIR$/..</output-path>
-    <root id="archive" name="NRPGZones.jar">
-      <element id="module-output" name="NRPGZones" />
-    </root>
-  </artifact>
-</component>
