@@ -1,0 +1,6 @@
+name: NRPGZones
+version: 1.0
+main: com.kaykype.nrpgzones.NRPGZones
+api-version: 1.19
+commands:
+  zone:
