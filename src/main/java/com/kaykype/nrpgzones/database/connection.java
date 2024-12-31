@@ -10,11 +10,11 @@ public class connection {
     public static Connection con;
 
     public static void connect() {
-        String url = "jdbc:mysql://190.102.40.72:3306/s14905_nrpg?useSSL=false&serverTimezone=UTC";
+        String url = "";
 
-        String username = "u14905_03fMlDFw28";
+        String username = "";
 
-        String password = "a+@SY8!vGkbUDuqLPCJ!dohH";
+        String password = "";
 
         try {
             try {
